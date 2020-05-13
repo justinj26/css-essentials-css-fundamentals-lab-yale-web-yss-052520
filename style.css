@@ -38,6 +38,7 @@ figcaption {
   align-items: center;
   justify-content: center;
   text-indent: 3mm;
+  padding: 10px;
 }
 #details {
   display: block;
