@@ -23,6 +23,7 @@ nav a {
   padding-left: 22px;
   padding-right: 22px;
   background-color: rgb(0, 255, 255);
+  text-indent: 3mm;
 } 
 figcaption {
   font-size: 12px;
