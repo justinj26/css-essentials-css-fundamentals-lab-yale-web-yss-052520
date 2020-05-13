@@ -41,7 +41,7 @@ figcaption {
 
 #details div {
   float: left;
-  background-color: rgb(255, 100, 255);
+  background-color: rgb(255, 50, 255);
   display: flex;
   align-items: center;
   justify-content: center;
