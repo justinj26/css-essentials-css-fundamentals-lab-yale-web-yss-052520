@@ -7,6 +7,6 @@ h1 {
   margin: auto;
 }
 #image {
-  margin: auto;
+  display: flex;
 }
 a.nav
